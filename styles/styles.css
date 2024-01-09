@@ -86,3 +86,20 @@ padding: 40px;
 .best-offer, .offer-yr {
     text-align: left;
 }
+.footer-text{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-img{
+    
+    align-items: center;
+   margin-left: 40%;
+   padding: 50px;
+    
+}
+/*footer {
+    background: #070211;
+}
+footer >p{
+    color: #fff;
+}
