@@ -1,0 +1,88 @@
+* {
+    font-family: 'Merriweather', serif;
+}
+.container {
+    margin: 0 140px;
+}
+
+header {
+    background-image: url(/images/Banner\ Image.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: #fff;
+    text-align: center;
+    margin-top: 40px;
+    
+}
+
+#header-section {
+    padding: 120px 250px;
+    border-radius: 16px;
+background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+}
+.header-text {
+    font-size: 32px;
+    font-weight: 400;
+}
+.header-title {
+font-size: 72px;
+font-weight: 900;
+line-height: 95px; 
+max-width: 632px;
+margin: auto;
+}
+
+.offer {
+    text-align: center;
+}
+.offer-catagory {
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.offer-desc {
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.offer-title {
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.comming-soon > img {
+    border-radius: 463px;
+border: 15px solid #F00;
+padding: 40px;
+}
+.comming-soon {
+    margin-top: 120px;
+ text-align: center;
+ display: flex;
+ gap: 50px;
+ justify-content: space-between;
+ align-items: center;
+}
+.offer-yr > p {
+    max-width: 276px;
+}
+.best-offer > p {
+    max-width: 393px;
+}
+.best-offer, .offer-yr {
+    text-align: left;
+}
